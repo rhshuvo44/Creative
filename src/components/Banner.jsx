@@ -16,8 +16,7 @@ const Banner = () => {
             dream project. Lets something big with us. Lets something big with
             us. Its our big our big dream project.
           </p>
-          <button className="btn btn-secondary text-white">Get Started</button>
-          
+          <button className="btn btn-secondary text-white">Contact Us</button>
         </div>
       </div>
     </section>

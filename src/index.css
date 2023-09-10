@@ -10,3 +10,8 @@
 body {
   font-family: "Exo", sans-serif;
 }
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

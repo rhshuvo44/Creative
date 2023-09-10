@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "../src/assets/service/Group 15.png",
+    "name": "UI/UX Design",
+    "descripation": "Every problem have an solution in our company. Its our big dream project. Lets with us."
+  },
+  {
+    "id": 2,
+    "image": "../src/assets/service/Vector.png",
+    "name": "Web Design",
+    "descripation": "Every problem have an solution in our company. Its our big dream project. Lets with us."
+  },
+  {
+    "id": 3,
+    "image": "../src/assets/service/Group.png",
+    "name": "Apps Design",
+    "descripation": "Every problem have an solution in our company. Its our big dream project. Lets with us."
+  },
+  {
+    "id": 4,
+    "image": "../src/assets/service/Group 16.png",
+    "name": "Graphics Design",
+    "descripation": "Every problem have an solution in our company. Its our big dream project. Lets with us."
+  }
+]

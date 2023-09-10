@@ -2,11 +2,10 @@ import banner from "../assets/banner/well-dressed-businesspeople-office-removebg
 // import banner1 from "../assets/banner/Vector 3.png";
 const Banner = () => {
   return (
-    <div className="hero banner min-h-screen bg-primary text-white">
+    <section className="hero banner min-h-screen bg-primary text-white">
       <div className="hero-content flex-col lg:flex-row-reverse">
         <div className="relative banner-img-box">
           <img src={banner} className="max-w-lg banner-img" />
-          {/* <img src={banner1} className="max-w-lg " /> */}
         </div>
         <div className="">
           <h1 className="text-8xl font-bold  uppercase">
@@ -18,9 +17,10 @@ const Banner = () => {
             us. Its our big our big dream project.
           </p>
           <button className="btn btn-secondary text-white">Get Started</button>
+          
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

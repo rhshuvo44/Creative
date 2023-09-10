@@ -1,0 +1,15 @@
+.banner-img-box::after {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 180px;
+  background: #f49d1a;
+  bottom: 0;
+  border-radius: 100px 0 0;
+  right: 0;
+  left: -50px;
+  z-index: -1;
+}
+.banner-img-box .banner-img{
+  z-index: 999;
+}
